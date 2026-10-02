@@ -1,5 +1,5 @@
 -- Product Purchase Faker
--- Made by esore 2026
+-- Made by Verisakeet
 
 local ScreenGui = Instance.new("ScreenGui")
 ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
